@@ -1,0 +1,202 @@
+/*
+========================================
+Beeanca HTML Template
+default.css
+base color        : #f5bb00
+base color darker : #cc9c00
+----------------------------------------
+Ari Rusmanto (Warung Themes, Co)
+(c) 2016 All Rights Reserved
+========================================
+*/
+
+.back-top-fixed {
+  background: #f5bb00;
+}
+
+.owl-carousel:hover .owl-controls .owl-buttons div:hover {
+  background-color: #f5bb00;
+}
+
+body {
+  color: #777777;
+  background-color: #f7f7f7;
+}
+a {
+  color: #f5bb00;
+}
+a:focus,
+a:active,
+a:hover {
+  color: #50514f;
+}
+
+.btn-main {
+  background-color: #f5bb00;
+}
+.btn-main:focus,
+.btn-main.focus,
+.btn-main:hover,
+.btn-main:active,
+.btn-main.active,
+.open > .dropdown-toggle.btn-main,
+.btn-main:active:hover,
+.btn-main.active:hover,
+.open > .dropdown-toggle.btn-main:hover,
+.btn-main:active:focus,
+.btn-main.active:focus,
+.open > .dropdown-toggle.btn-main:focus,
+.btn-main:active.focus,
+.btn-main.active.focus,
+.open > .dropdown-toggle.btn-main.focus {
+  background-color: #cc9c00;
+}
+.btn-main.disabled,
+.btn-main.disabled:hover,
+.btn-main[disabled]:hover,
+fieldset[disabled] .btn-main:hover,
+.btn-main.disabled:focus,
+.btn-main[disabled]:focus,
+fieldset[disabled] .btn-main:focus,
+.btn-main.disabled.focus,
+.btn-main[disabled].focus,
+fieldset[disabled] .btn-main.focus {
+  background-color: #ffcc29;
+}
+.btn-main .badge {
+  color: #f5bb00;
+}
+
+.social-icons > a:hover {
+  color: #f5bb00;
+}
+
+.nav-wrapper .nav-menu ul > li.active:hover > a,
+.nav-wrapper .nav-menu ul > li.active > a {
+  background-color: #f5bb00;
+}
+
+.nav-wrapper .nav-menu ul > li:hover > a {
+  color: #f5bb00;
+}
+
+.nav-wrapper .nav-menu ul > li > ul {
+  background-color: #f5bb00;
+}
+
+.nav-wrapper .nav-menu ul > li > ul > li.active > a,
+.nav-wrapper .nav-menu ul > li > ul > li.active:hover > a,
+.nav-wrapper .nav-menu ul > li > ul > li:hover > a {
+  background-color: #e6af00;
+}
+
+footer .footer-text {
+  background-color: #f5bb00;
+}
+
+@media only screen and (max-width: 1200px) {
+  .nav-wrapper .nav-menu ul > li.active {
+    border-bottom-color: #f5bb00;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .wrapper.header-lg .nav-wrapper .nav-menu ul > li.active {
+    border-bottom-color: #f5bb00;
+  }
+}
+
+.widget .widget-heading:after {
+  background-color: #f5bb00;
+}
+
+.widget-social-icons > a:hover {
+  color: #f5bb00;
+}
+
+.widget-tags > a:hover {
+  background-color: #f5bb00;
+}
+
+.widget-list ul > li > a span {
+  background-color: #f5bb00;
+}
+
+.widget-twitter ul > li:hover:before {
+  color: #f5bb00;
+}
+
+.widget-comments ul > li .comment-heading .date {
+  color: #f5bb00;
+}
+
+.widget-post-list.list-numbering ul > li:hover:before {
+  color: #f5bb00;
+}
+
+.widget-tabs .nav-tabs > li.active > a,
+.widget-tabs .nav-tabs > li.active > a:hover,
+.widget-tabs .nav-tabs > li.active > a:focus {
+  border-bottom-color: #f5bb00;
+}
+
+.category a:hover {
+  color: #f5bb00;
+}
+
+.post-meta a:hover {
+  color: #f5bb00;
+}
+
+.has-post-format:hover .featured-img:after {
+  background-color: #f5bb00;
+}
+
+.content-inner .next-prev-post .next-post:before,
+.content-inner .next-prev-post .prev-post:before {
+  background-color: #f5bb00;
+}
+
+.widget-about.post-author .social-icons a:hover {
+  color: #f5bb00;
+}
+
+.page-heading:before {
+  background-color: #f5bb00;
+}
+
+.archive-heading .subheading {
+  color: #f5bb00;
+}
+
+.archive-heading.bold-bordered {
+  -webkit-box-shadow: 0 10px 0 0 #f5bb00;
+  -moz-box-shadow: 0 10px 0 0 #f5bb00;
+  box-shadow: 0 10px 0 0 #f5bb00;
+}
+
+.page-inner-content .heading-404 span {
+  color: #f5bb00;
+}
+
+.featured-posts-slideshow.owl-carousel .item.has-post-format:hover:after {
+  background-color: #f5bb00;
+}
+.featured-posts-slideshow.owl-carousel #owl-bar {
+  background: #f5bb00;
+}
+
+.featured-posts-split {
+  -webkit-box-shadow: 0 5px 0 0 #f5bb00;
+  -moz-box-shadow: 0 5px 0 0 #f5bb00;
+  box-shadow: 0 5px 0 0 #f5bb00;
+}
+
+.featured-posts-split .owl-post-nav-content .synced .item .caption .category a {
+  color: #f5bb00;
+}
+.featured-posts-split .owl-post-nav-content .synced .item .caption .post-meta span a:hover {
+  color: #f5bb00;
+}
+
+

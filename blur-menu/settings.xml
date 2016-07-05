@@ -1,0 +1,46 @@
+<settings>
+  <General_Properties>
+    <componentWidth value="600"/>
+    <componentHeight value="300"/>
+    <BgkColor value="0x000000"/>
+    <BgkAlpha value="0.1"/>
+    <Orientation value="vertical"/>
+    <offsetY value="0"/>
+    <menuAlign value="center"/>
+    <Spacing value="0"/>
+    <assets value="menu.xml"/>
+    <showAbout value="true"/>
+  </General_Properties>
+  <TextItem_Properties>
+    <Font value="NiteClub"/>
+    <Size value="48"/>
+    <Color value="0xcc0000"/>
+    <Alpha value="1"/>
+  </TextItem_Properties>
+  <MouseOver_Properties>
+    <Color value="0x000000"/>
+    <Percent value="80"/>
+    <BlurAmount value="4"/>
+    <AnimationFunction value="Elastic"/>
+    <AnimationMethod value="easeOut"/>
+    <AnimationTime value="1"/>
+  </MouseOver_Properties>
+  <Reflection_Properties>
+    <Active value="false"/>
+    <Alpha value="1"/>
+    <Ratio value="255"/>
+    <Distance value="7.1"/>
+  </Reflection_Properties>
+  <Filter_Properties>
+    <Active value="true"/>
+    <Filter value="Bevel"/>
+    <Distance value="8"/>
+    <Angle value="58"/>
+    <Color value="0x000000"/>
+    <Alpha value="0.7"/>
+    <BlurX value="7"/>
+    <BlurY value="19"/>
+    <Strength value="10"/>
+    <Quality value="10"/>
+  </Filter_Properties>
+</settings>
